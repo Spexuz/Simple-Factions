@@ -1,0 +1,6 @@
+l_english:
+ Simple_Factions_Spirit:0 "Can Create Faction "
+ Simple_Factions_Spirit_desc:0 "This country has the political will and autonomy to create a faction outside the traditional power blocs."
+ simple_faction_category:0 "Faction Formation"
+ simple_create_faction_decision:0 "Form a New Faction"
+ simple_create_faction_decision_desc:0 "Use our political autonomy to create a faction of our own. Once done, we can invite others to join us."

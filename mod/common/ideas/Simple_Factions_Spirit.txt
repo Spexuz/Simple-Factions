@@ -1,0 +1,9 @@
+Simple_Factions_Spirit = {
+    picture = goal_tfv_strengthen_commonwealth
+    allowed = { always = yes }
+    visible = { always = yes }
+    removal_cost = -1
+
+    modifier = {
+        # No bonuses — this spirit just gates the decision
+    }

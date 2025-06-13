@@ -1,0 +1,30 @@
+category = {
+    id = simple_faction_category
+    icon = goal_tfv_strengthen_commonwealth
+    allowed = { always = yes }
+    visible = { has_national_spirit = Simple_Factions_Spirit }
+
+    decision = {
+        id = simple_create_faction_decision
+        icon = generic_allies_text
+
+        allowed = {
+            has_national_spirit = Simple_Factions_Spirit
+            is_in_faction = no
+            is_ai = no
+        }
+
+        visible = {
+            has_national_spirit = Simple_Factions_Spirit
+            is_in_faction = no
+            is_ai = no
+        }
+
+        complete_effect = {
+            create_faction = yes
+        }
+
+        days_remove = 0
+        days_reenable = 0
+    }
+}
