@@ -1,5 +1,5 @@
 name="Simple: Factions"
-path="mod/hoi4-create-faction-mod"
+path="mod/Simple Factions"
 tags={
     "Gameplay"
 }

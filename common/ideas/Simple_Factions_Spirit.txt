@@ -5,5 +5,5 @@ Simple_Factions_Spirit = {
     removal_cost = -1
 
     modifier = {
-        # No bonuses — this spirit just gates the decision
+        # Decision Gate
     }
